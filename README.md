@@ -112,3 +112,7 @@ Potential future improvements include:
 * **Voice summaries**: For visually impaired users or multitaskers
 
 Ultimately, this simple interface is a powerful tool when paired with a strong backend. It encourages better habits, promotes mindfulness, and adds a touch of joy to productivity tracking.
+
+
+<img width="1919" height="1013" alt="Image" src="https://github.com/user-attachments/assets/86bdb75c-6437-4b32-b677-b7247fca6af4" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/2f46fe96-2cba-48fa-b2a0-132527b03b08" />
